@@ -1,6 +1,6 @@
-# oCaquitu
+# Caquitu
 
-<h1 align="center">oCaquitu, Dev | Compositor | Editor | Estudante</h1>
+<h1 align="center">Caquitu, Dev | Compositor | Editor | Estudante</h1>
 <h3 align="center">Um nômade das linguagens de programação 👨‍💻🎮🎹🎞️💻📚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocaquitu&label=Profile%20views&color=0e75b6&style=flat" alt="ocaquitu" /> </p>
